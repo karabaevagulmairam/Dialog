@@ -1,0 +1,10 @@
+.over{
+    background: url("../img/over-bg.png") center/cover no-repeat;
+    padding: 480px 0;
+}
+
+.over__title{
+    font-weight: 600;
+    font-size: 70px;
+    text-align: center;
+}

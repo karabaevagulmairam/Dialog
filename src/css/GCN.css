@@ -1,0 +1,62 @@
+.GCN{
+    margin: 120px 0  ;
+}
+
+.GCN__icon{
+    text-align: center;
+}
+
+.GCN__title{
+    font-weight: 700;
+    font-size: 100px;
+    text-align: center;
+    padding: 23px 0 15px;
+}
+
+.GCN__text{
+    font-weight: 400;
+    font-size: 43px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.GCN__btns{
+    text-align: center;
+    margin: 14px 0 26px;
+}
+
+.GCN__btn{
+    font-weight: 600;
+    font-size: 30px;
+    color: #fff;
+    padding: 29px 100px;
+    border: 1px solid #326CF9;
+    border-radius: 10px;
+    margin: 0 auto;
+    background: #326CF9;
+}
+
+.GCN__btn:hover{
+    cursor: pointer;
+    background: #326CF9;
+    border: 1px solid #fff;
+    color: white;
+}
+
+.GCN__desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #707070;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.num1{
+    font-weight: bold;
+    padding-right: 8px;
+}
+
+.GCN__circle{
+    padding-right: 9px;
+}

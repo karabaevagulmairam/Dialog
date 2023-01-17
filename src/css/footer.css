@@ -1,0 +1,40 @@
+.footer{
+    padding: 184px 0 96px;
+}
+
+.footer__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__title{
+    display: flex;
+    align-items: center;
+    column-gap: 23px;
+    font-weight: 800;
+    font-size: 42px;
+}
+
+.footer__text{
+    padding-top: 13px;
+    font-weight: 400;
+    font-size: 27px;
+    color: #707070;
+}
+
+.footer__list{
+    display: flex;
+    column-gap: 46px;
+}
+
+.footer__link{
+    font-weight: 500;
+    font-size: 28px;
+    color: #707070;
+    cursor: pointer;
+}
+
+.footer__link:hover{
+    color:  #306EF7;;
+}

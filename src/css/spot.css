@@ -1,0 +1,119 @@
+.spot{
+    padding-bottom: 100px;
+}
+.spot__row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.spot__left{
+    width: 50%;
+}
+
+.spot__begin{
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+
+.spot__title{
+    font-weight: 600;
+    font-size: 75px;
+    padding-bottom: 27px;
+}
+
+.spot__blue{
+    color: #3C82F4;
+}
+
+.spot__nums{
+    display: flex;
+    align-items: center;
+    column-gap: 12px;
+    padding-bottom: 14px;
+}
+
+.spot__text{
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.spot__btns{
+    display: flex;
+    column-gap: 24px;
+    padding-top: 69px;
+}
+
+.spot__btn{
+    font-weight: 500;
+    font-size: 20px;
+    color: #707070;
+    padding: 18px 21px;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    background: transparent;
+}
+
+.spot__btn:hover{
+    cursor: pointer;
+    background: #326CF9;
+    border: 1px solid #326CF9;
+    color: white;
+}
+
+.spot__btn_blue{
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    padding: 18px 21px;
+    border: 1px solid #326CF9;
+    border-radius: 10px;
+    background: #326CF9;
+}
+
+.spot__btn_blue:hover{
+    cursor: pointer;
+    border: 1px solid #fff;
+}
+
+.spot__right{
+    width: 50%;
+    position: relative;
+}
+
+.spot__img{
+    width: 100%;
+    position: absolute;
+    top: -350px;
+    left: 30px;
+    z-index: 4;
+}
+
+.block{
+    width: 300px;
+    height: 300px;
+    background: #8B8B8B;
+    position: absolute;
+    top: 40px;
+    left: 47%;
+    z-index: 3;
+}
+
+.spot__step{
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    color: #3D82F2;
+    margin: 189px 0 15px;
+}
+
+
+
+
+
+
+
+
+

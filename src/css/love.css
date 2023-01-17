@@ -1,0 +1,74 @@
+.love{
+    padding-bottom: 160px;
+}
+
+.love-title{
+    font-weight: 600;
+    font-size: 75px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+.love-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.love-card{
+    text-align: center;
+}
+
+.love-card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 6px;
+    font-weight: 600;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.love-card-text{
+    font-weight: 400;
+    font-size: 22px;
+    color: #707070;
+}
+
+.love-step{
+    margin: 162px 0 15px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #3D82F2;
+    text-align: center;
+}
+
+.love-desc{
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    color: #707070;
+}
+
+.love-btns{
+    text-align: center;
+    margin: 35px 0 182px;
+}
+
+
+.love-btn{
+    font-weight: 600;
+    font-size: 20px;
+    color: #707070;
+    padding: 23px 37px;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    margin: 0 auto;
+    background: transparent;
+}
+.love-btn:hover{
+    cursor: pointer;
+    background: #326CF9;
+    border: 1px solid #326CF9;
+    color: white;
+}
